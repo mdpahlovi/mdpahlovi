@@ -13,10 +13,10 @@ I made this project just for fun, it allows you to create nice and simple GitHub
 <a href="https://discord.gg/MD Pahlovi#4019/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="MD Pahlovi#4019" height="30" width="40" /></a>
 </p>
 
+![Profile views](https://gpvc.arturio.dev/mdpahlovi)  
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mdpahlovi)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=mdpahlovi&show_icons=true&count_private=true)  
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=mdpahlovi)  
 
-![Profile views](https://gpvc.arturio.dev/mdpahlovi)  
