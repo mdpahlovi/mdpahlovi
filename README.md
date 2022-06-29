@@ -19,6 +19,4 @@ I made this project just for fun, it allows you to create nice and simple GitHub
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=mdpahlovi)  
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=mdpahlovi)  
-
 ![Profile views](https://gpvc.arturio.dev/mdpahlovi)  
