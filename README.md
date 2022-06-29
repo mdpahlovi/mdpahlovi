@@ -1,5 +1,5 @@
 # Hi!🙋‍♂️
-(https://media-exp2.licdn.com/dms/image/C4D16AQHPlcTExlAZCw/profile-displaybackgroundimage-shrink_350_1400/0/1656526144897?e=1661990400&v=beta&t=xCme1Sa3_QU_1azD2M1nD2pNZysjxYVc8vGWGuzqBZo)
+<img src="https://media-exp2.licdn.com/dms/image/C4D16AQHPlcTExlAZCw/profile-displaybackgroundimage-shrink_350_1400/0/1656526144897?e=1661990400&v=beta&t=xCme1Sa3_QU_1azD2M1nD2pNZysjxYVc8vGWGuzqBZo">
 
 I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
 
