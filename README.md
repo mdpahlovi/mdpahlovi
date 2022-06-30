@@ -15,4 +15,4 @@ I am a junior web developer. My main focus is to achieve a bright career with my
 
 ---
 [![](https://visitcount.itsvg.in/api?id=mdpahlovi&icon=0&color=0)](https://visitcount.itsvg.in)
-https://img.shields.io/github/languages/count/mdpahlovi/mdpahlovi
+![](https://img.shields.io/github/languages/count/mdpahlovi/mdpahlovi)]
