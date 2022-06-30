@@ -9,11 +9,9 @@ I am a junior web developer. My main focus is to achieve a bright career with my
 ### 🌐 Connect with me:
 [![Facebook](https://img.shields.io/badge/-Facebook-1877F2?style=flat&labelColor=1877F2&logo=Facebook&logoColor=white)](https://facebook.com/mdpahlovi) [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&labelColor=0A66C2&logo=LinkedIn&logoColor=white)](https://linkedin.com/in/mdpahlovi) [![Gmail](https://img.shields.io/badge/-Gmail-c0392b?style=flat&labelColor=c0392b&logo=Gmail&logoColor=white)](mailto:mdpahlovi07@gmail.com)
 
+[![](https://visitcount.itsvg.in/api?id=mdpahlovi&icon=0&color=0)](https://visitcount.itsvg.in)
+
 ### 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mdpahlovi&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br/>
 ![](https://github-readme-stats.vercel.app/api?username=mdpahlovi&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=mdpahlovi&theme=dark&hide_border=false)
-
----
-[![](https://visitcount.itsvg.in/api?id=mdpahlovi&icon=0&color=0)](https://visitcount.itsvg.in)
-
