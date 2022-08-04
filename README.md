@@ -1,6 +1,6 @@
 # Hi!🙋‍♂️
 
-<img src="https://media-exp2.licdn.com/dms/image/C4D16AQHPlcTExlAZCw/profile-displaybackgroundimage-shrink_350_1400/0/1656526144897?e=1661990400&v=beta&t=xCme1Sa3_QU_1azD2M1nD2pNZysjxYVc8vGWGuzqBZo">
+<img src="https://drive.google.com/drive/u/0/folders/1-PtaW2WJGVIYzwgnyor05D0Kj5mnotpS">
 
 I am a junior web developer. My main focus is to achieve a bright career with my hard work and dedication. I Spend most of time coding outstanding projects or playing games.
 
