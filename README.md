@@ -29,7 +29,7 @@ I am a junior web developer. My main focus is to achieve a bright career with my
 [![Facebook](https://img.shields.io/badge/-Facebook-1877F2?style=flat&labelColor=1877F2&logo=Facebook&logoColor=white)](https://facebook.com/mdpahlovi) 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&labelColor=0A66C2&logo=LinkedIn&logoColor=white)](https://linkedin.com/in/mdpahlovi) 
 [![Gmail](https://img.shields.io/badge/-Gmail-c0392b?style=flat&labelColor=c0392b&logo=Gmail&logoColor=white)](mailto:mdpahlovi07@gmail.com) 
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](htttps://discord.gg/4019)
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](htttps://discord.gg/#4019)
 
 ### 📊 GitHub Stats:
 <a href="https://visitcount.itsvg.in">
