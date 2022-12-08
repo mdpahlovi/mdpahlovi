@@ -6,9 +6,9 @@ I am a junior web developer. My main focus is to achieve a bright career with my
 
 - 🔭 I’m currently working on [My Portfolio](https://mdpahlovi.web.app/)
 
-- 🌱 I’m currently learning **JavaScript**
+- 🌱 I’m currently learning **Redux & Next.js**
 
-- 👨‍💻 All of my projects are available at [Here](https://github.com/mdpahlovi)
+- 👨‍💻 All of my projects are available at [Here](https://github.com/mdpahlovi?tab=repositories)
 
 - 📫 You can reach me **mdpahloi07@gmail.com**
 
