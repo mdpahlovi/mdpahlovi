@@ -1,5 +1,5 @@
 # Hi!🙋‍♂
-<img src="https://i.ibb.co/yP4x8Hx/Cover.png" alt="Cover" border="0">
+<img src="https://i.ibb.co/wgc2K52/Cover.png" alt="Cover" border="0">
 
 I am a junior web developer. My main focus is to achieve a bright career with my hard work and dedication. I Spend most of time coding outstanding projects or playing games.
 
