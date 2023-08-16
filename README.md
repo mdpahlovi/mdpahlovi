@@ -25,10 +25,11 @@ I am a junior web developer. My main focus is to achieve a bright career with my
 ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white) 
 
 ### 🌐 Connect with me:
-[![Facebook](https://img.shields.io/badge/-Facebook-1877F2?style=flat&labelColor=1877F2&logo=Facebook&logoColor=white)](https://facebook.com/mdpahlovi) 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&labelColor=0A66C2&logo=LinkedIn&logoColor=white)](https://linkedin.com/in/mdpahlovi) 
-[![Gmail](https://img.shields.io/badge/-Gmail-c0392b?style=flat&labelColor=c0392b&logo=Gmail&logoColor=white)](mailto:mdpahlovi07@gmail.com) 
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](htttps://discord.gg/#4019)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/pahlovi07/)
+[![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mdpahlovi/)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mdpahlovi/)
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/883651342005063690)
+[![Mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mdpahlovi07@gmail.com)
 
 ### 📊 GitHub Stats:
 <a href="https://visitcount.itsvg.in">
