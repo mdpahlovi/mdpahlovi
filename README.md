@@ -1,7 +1,7 @@
 # Hi!🙋‍♂
 <img src="https://i.ibb.co/wgc2K52/Cover.png" alt="Cover" border="0">
 
-I am a junior web developer. My main focus is to achieve a bright career with my hard work and dedication. I Spend most of time coding outstanding projects or playing games.
+Enthusiastic web developer with 1.5 years of experience in full-stack development. Seeking to apply my skills in industry.  Eager to continuously learn and adapt to new technologies while collaborating within a team.
 
 - 🔭 I’m currently working on [My Portfolio](https://mdpahlovi.vercel.app/)
 
@@ -9,7 +9,7 @@ I am a junior web developer. My main focus is to achieve a bright career with my
 
 - 👨‍💻 All of my projects are available at [Here](https://github.com/mdpahlovi?tab=repositories)
 
-- 📫 You can reach me **mdpahloi07@gmail.com**
+- 📫 You can reach me at **mdpahloi07@gmail.com**
 
 ### 💻 Software and language skills:
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
