@@ -41,4 +41,4 @@ Enthusiastic web developer with 1.5 years of experience in full-stack developmen
 [![Mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mdpahlovi07@gmail.com)
 
 -----
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mdpahlovi&layout=pie)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mdpahlovi&layout=pie&theme=dark)
