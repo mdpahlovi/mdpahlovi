@@ -1,7 +1,7 @@
 # Hi!🙋‍♂
 <img src="https://i.ibb.co/wgc2K52/Cover.png" alt="Cover" border="0">
 
-Enthusiastic web developer with 1.5 years of experience in full-stack development. Seeking to apply my skills in industry.  Eager to continuously learn and adapt to new technologies while collaborating within a team.
+👋🏼 Welcome! I'm MD Pahlovi, a dedicated and enthusiastic Web Developer with over 1.5 years of immersive learning and practical expertise in web development.
 
 - 🔭 I’m currently working on [My Portfolio](https://mdpahlovi.vercel.app/)
 
