@@ -40,8 +40,5 @@ Enthusiastic web developer with 1.5 years of experience in full-stack developmen
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/883651342005063690)
 [![Mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mdpahlovi07@gmail.com)
 
-### 📊 GitHub Stats:
-![Pahlovi's GitHub stats](https://github-readme-stats.vercel.app/api?username=mdpahlovi&show_icons=true&theme=transparent)
-
 -----
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=mdpahlovi&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mdpahlovi&layout=pie)
