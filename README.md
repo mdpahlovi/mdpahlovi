@@ -41,7 +41,7 @@ Enthusiastic web developer with 1.5 years of experience in full-stack developmen
 [![Mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mdpahlovi07@gmail.com)
 
 ### 📊 GitHub Stats:
-[![](https://visitcount.itsvg.in/api?id=mdpahlovi&label=MD%20Pahlovi&color=1&icon=0&pretty=true)](https://visitcount.itsvg.in)
+![Pahlovi's GitHub stats](https://github-readme-stats.vercel.app/api?username=mdpahlovi&show_icons=true&theme=transparent)
 
 -----
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mdpahlovi&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
