@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [My Portfolio](https://mdpahlovi.vercel.app/)
 
-- 🌱 I’m currently learning **AWS, Docker & GraphQL**
+- 🌱 I’m currently learning **Three.js**
 
 - 👨‍💻 All of my projects are available at [Here](https://github.com/mdpahlovi?tab=repositories)
 
