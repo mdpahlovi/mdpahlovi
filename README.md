@@ -1,44 +1,73 @@
-# Hi!🙋‍♂
-<img src="https://i.ibb.co/wgc2K52/Cover.png" alt="Cover" border="0">
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=6441A5&height=200&section=header&text=MD%20Pahlovi&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=38" />
+  
+  <h3 style="margin-top: 0">
+    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=6441A5&center=true&vCenter=true&random=false&width=435&lines=Software+Engineer;Full+Stack+Developer;React+%26+Node.js+Expert;TypeScript+Enthusiast" alt="Typing SVG" />
+  </h3>
+  
+  <p>
+    <a href="https://mdpahlovi.vercel.app/" target="_blank">
+      <img src="https://img.shields.io/badge/Portfolio-6441A5?style=for-the-badge" alt="Portfolio" />
+    </a>
+    <a href="https://linkedin.com/in/mdpahlovi" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-6441A5?style=for-the-badge" alt="LinkedIn" />
+    </a>
+    <a href="mailto:mdpahlovi07@gmail.com">
+      <img src="https://img.shields.io/badge/Email-6441A5?style=for-the-badge" alt="Email" />
+    </a>
+  </p>
+</div>
 
-👋🏼 Welcome! I'm MD Pahlovi, a dedicated and enthusiastic Web Developer with over 1.5 years of immersive learning and practical expertise in web development.
+## 💫 About Me
 
-- 🔭 I’m currently working on [My Portfolio](https://mdpahlovi.vercel.app/)
+<img align="right" height="150" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmQ1OTBjMzIwMzFkYTUxYjg3MjBkZDM0ZWM0MzJlMDUzMzA0YmNjYiZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/bGgsc5mWoryfgKBx1u/giphy.gif" />
 
-- 🌱 I’m currently learning **Three.js**
+Software Engineer with 2 years of experience in designing and developing web and mobile applications. Proficient in JavaScript, TypeScript, React, Node.js, and various databases. Passionate about building high-quality solutions, optimizing performance, and collaborating effectively within agile teams.
 
-- 👨‍💻 All of my projects are available at [Here](https://github.com/mdpahlovi?tab=repositories)
+<br/>
 
-- 📫 You can reach me at **mdpahloi07@gmail.com**
+## 💻 Tech Stack
 
-### 💻 Software and language skills:
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white)
-![Ant-Design](https://img.shields.io/badge/-AntDesign-%230170FE?style=for-the-badge&logo=ant-design&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![NextJS](https://img.shields.io/badge/NEXTJS-000000?style=for-the-badge&logo=Next.js&logoColor=white)
-![Nodejs](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Mongoose](https://img.shields.io/badge/Mongoose-red?style=for-the-badge&logo=mongoose&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0064a5?style=for-the-badge&logo=postgresql&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-blue?style=for-the-badge&logo=prisma&logoColor=white)
-![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white) 
-![Adobe Illustrator](https://img.shields.io/badge/adobeillustrator-%23FF9A00.svg?style=for-the-badge&logo=adobeillustrator&logoColor=white)
+<div align="center">
+  <h3>Frontend Technologies</h3>
+  <img src="https://skillicons.dev/icons?i=js,ts,dart,react,nextjs,flutter,redux,tailwind&theme=dark&perline=8" /><br/>
+  
+  <h3>Backend Technologies</h3>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,prisma,graphql,mongodb,postgres&theme=dark&perline=7" /><br/>
+  
+  <h3>Tools & Others</h3>
+  <img src="https://skillicons.dev/icons?i=git,github,docker,firebase,supabase,figma,vscode&theme=dark&perline=7" />
+</div>
 
-### 🌐 Connect with me:
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/pahlovi07/)
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mdpahlovi/)
-[![Whatsapp](https://img.shields.io/badge/Whatsapp-075e54?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=8801736817612)
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/883651342005063690)
-[![Mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mdpahlovi07@gmail.com)
+<br/>
 
------
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mdpahlovi&layout=pie&theme=dark)
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mdpahlovi&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0D1117" alt="GitHub Stats" width="49%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mdpahlovi&theme=midnight-purple&hide_border=true&background=0D1117&stroke=6441A5" alt="GitHub Streak" width="49%" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdpahlovi&theme=midnight-purple&hide_border=true&bg_color=0D1117&layout=compact" alt="Top Languages" />
+</div>
+
+<br/>
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=mdpahlovi&theme=discord&column=7&no-frame=true&no-bg=true" alt="GitHub Trophies" />
+</div>
+
+<br/>
+
+## 📈 Activity Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mdpahlovi&bg_color=0D1117&color=6441A5&line=6441A5&point=FFFFFF&area=true&hide_border=true" alt="Activity Graph" />
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=6441A5&height=120&section=footer" />
+</div>
