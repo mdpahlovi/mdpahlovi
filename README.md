@@ -1,21 +1,13 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=6441A5&height=200&section=header&text=MD%20Pahlovi&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=38" />
   
-  <h3 style="margin-top: 0">
-    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=6441A5&center=true&vCenter=true&random=false&width=435&lines=Software+Engineer;Full+Stack+Developer;React+%26+Node.js+Expert;TypeScript+Enthusiast" alt="Typing SVG" />
-  </h3>
+  ![Header](https://capsule-render.vercel.app/api?type=waving&color=6441A5&height=200&section=header&text=MD%20Pahlovi&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=38)
   
-  <p>
-    <a href="https://mdpahlovi.vercel.app/" target="_blank">
-      <img src="https://img.shields.io/badge/Portfolio-6441A5?style=for-the-badge" alt="Portfolio" />
-    </a>
-    <a href="https://linkedin.com/in/mdpahlovi" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-6441A5?style=for-the-badge" alt="LinkedIn" />
-    </a>
-    <a href="mailto:mdpahlovi07@gmail.com">
-      <img src="https://img.shields.io/badge/Email-6441A5?style=for-the-badge" alt="Email" />
-    </a>
-  </p>
+  ### ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=6441A5&center=true&vCenter=true&random=false&width=435&lines=Software+Engineer;Full+Stack+Developer;React+%26+Node.js+Expert;TypeScript+Enthusiast)
+
+  [![Portfolio](https://img.shields.io/badge/Portfolio-6441A5?style=for-the-badge)](https://mdpahlovi.vercel.app/)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-6441A5?style=for-the-badge)](https://linkedin.com/in/mdpahlovi)
+  [![Email](https://img.shields.io/badge/Email-6441A5?style=for-the-badge)](mailto:mdpahlovi07@gmail.com)
+  
 </div>
 
 ## 💫 About Me
