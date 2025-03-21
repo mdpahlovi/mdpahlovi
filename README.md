@@ -2,7 +2,7 @@
   
   ![Header](https://capsule-render.vercel.app/api?type=waving&color=6441A5&height=200&section=header&text=MD%20Pahlovi&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=38)
   
-  ### ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=6441A5&center=true&vCenter=true&random=false&width=435&lines=Software+Engineer;Full+Stack+Developer;React+%26+Node.js+Expert;TypeScript+Enthusiast)
+  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=6441A5&center=true&vCenter=true&random=false&width=435&lines=Software+Engineer;Full+Stack+Developer;React+%26+Node.js+Expert;TypeScript+Enthusiast)
 
   [![Portfolio](https://img.shields.io/badge/Portfolio-6441A5?style=for-the-badge)](https://mdpahlovi.vercel.app/)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-6441A5?style=for-the-badge)](https://linkedin.com/in/mdpahlovi)
