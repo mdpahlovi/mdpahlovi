@@ -14,7 +14,7 @@
 
 <img align="right" height="150" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmQ1OTBjMzIwMzFkYTUxYjg3MjBkZDM0ZWM0MzJlMDUzMzA0YmNjYiZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/bGgsc5mWoryfgKBx1u/giphy.gif" />
 
-Software Engineer with 2 years of experience in designing and developing web and mobile applications. Proficient in JavaScript, TypeScript, React, Node.js, and various databases. Passionate about building high-quality solutions, optimizing performance, and collaborating effectively within agile teams.
+Software Engineer with 2 years of experience in designing and developing web and mobile applications. Proficient in JavaScript, TypeScript, React, Next.js, Flutter, Node.js, Nest.js, and various databases. Passionate about building high-quality solutions, optimizing performance, and collaborating effectively within agile teams.
 
 <br/>
 
