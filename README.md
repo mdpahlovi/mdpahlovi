@@ -7,6 +7,7 @@
   [![Portfolio](https://img.shields.io/badge/Portfolio-6441A5?style=for-the-badge)](https://mdpahlovi.vercel.app/)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-6441A5?style=for-the-badge)](https://linkedin.com/in/mdpahlovi)
   [![Email](https://img.shields.io/badge/Email-6441A5?style=for-the-badge)](mailto:mdpahlovi07@gmail.com)
+  [![WhatsApp](https://img.shields.io/badge/WhatsApp-6441A5?style=for-the-badge)](https://wa.me/8801736817612)
   
 </div>
 
