@@ -22,7 +22,7 @@ Software Engineer with 2 years of experience in designing and developing web and
 
 <div align="center">
   <h3>Frontend Technologies</h3>
-  <img src="https://skillicons.dev/icons?i=js,ts,dart,react,nextjs,flutter,redux,tailwind,materialui&theme=dark&perline=8" /><br/>
+  <img src="https://skillicons.dev/icons?i=js,ts,dart,react,nextjs,flutter,redux,tailwind,materialui&theme=dark&perline=9" /><br/>
   
   <h3>Backend Technologies</h3>
   <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,prisma,graphql,mongodb,postgres&theme=dark&perline=7" /><br/>
