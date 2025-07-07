@@ -14,9 +14,9 @@
 ## 💫 About Me
 
 <div style="display: flex; gap: 24px;">
-  <p>
+  <div>
   Software Engineer with 2 years of experience in designing and developing web and mobile applications. Proficient in JavaScript, TypeScript, React, Next.js, Flutter, Node.js, Nest.js, and various databases. Passionate about building high-quality solutions, optimizing performance, and collaborating effectively within agile teams.
-  </p>
+  </div>
 
   <img width="192" height="192" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmQ1OTBjMzIwMzFkYTUxYjg3MjBkZDM0ZWM0MzJlMDUzMzA0YmNjYiZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/bGgsc5mWoryfgKBx1u/giphy.gif" />
 </div>
